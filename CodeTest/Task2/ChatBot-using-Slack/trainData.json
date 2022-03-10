@@ -1,0 +1,30 @@
+{
+    "City": {
+        "questions": [
+            "capital of India",
+            "what is the capital of India?",
+            "What is the Capital of India"
+        ],
+        "answer": "Delhi, is the capital city of India"
+    },
+    "world": {
+    "questions": [
+        "capital of America",
+        "What is the capital city of USA?",
+        "What is the capital city of USA?",
+        "Capital of USA"
+    ],
+    "answer": "Washington D.C."
+},
+"bangladesh": {
+    "questions": [
+        "capital of Bangladesh",
+        "What is the capital city of Bangladesh?",
+        "What is the capital city of Bangladesh?",
+        "Capital of Bangladesh"
+    ],
+    "answer": "Dhaka"
+
+    }
+    
+}
